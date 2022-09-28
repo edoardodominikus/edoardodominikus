@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning front end coding
 - ⚡ Fun fact: I love take photo and video 📷 
 
-I am currently a third year Electrical Engineering and Computer Science student in National Tsing Hua University, Taiwan. 
+I am currently a senior Electrical Engineering and Computer Science student in National Tsing Hua University, Taiwan. 
 
 
 ## Language and Tools ⌨️:
