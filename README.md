@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love take photo and video 📷 
 
 I am currently a senior Electrical Engineering and Computer Science student in National Tsing Hua University, Taiwan. 
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=edoardodominikus&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -15,7 +15,7 @@ I am currently a senior Electrical Engineering and Computer Science student in N
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=edoardodominikus&show_icons=true" />
-</picture>
+</picture> -->
 
 ## Language and Tools ⌨️:
 - :keyboard:: <a href="">![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a> <a href="">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a> <a href="">![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a> 
